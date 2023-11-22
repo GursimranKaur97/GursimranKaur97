@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-## Experienced Senior Software Engineer | Backend Developer
+## Senior Software Engineer | Backend Developer
 
 Hello there! 👋 I'm Gursimran Kaur, an experienced Senior Software Engineer with over 4 years of expertise in building robust and scalable web applications. My passion lies in crafting efficient and cost-effective serverless and microservices architectures that enhance reliability and performance.
 
@@ -25,10 +25,6 @@ The field of software development is dynamic, and I am committed to continuous l
 ### 📈 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=contribs)](https://github.com/YourUsername)
-
-### 🤝 Let's Connect
-
-I'm always open to collaboration, discussions, and sharing insights. Feel free to connect with me on [LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/gursimran-kaur-50187b137/)).
 
 ### 🌟 Let's Build the Future Together!
 
