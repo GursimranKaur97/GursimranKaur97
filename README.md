@@ -1,13 +1,35 @@
-<h1 align="center">Hi 👋, I'm Gursimran Kaur</h1>
-<h3 align="center">Experienced Senior Software Engineer with 4+ years of expertise in Node.js, AWS, Serverless, Angular, and GraphQL. Skilled in building scalable web applications using JavaScript/TypeScript. Proven track record in designing and implementing cost-effective serverless and microservices architectures for improved reliability. Committed to ongoing learning and professional growth in the dynamic field of software development.</h3>
+# Welcome to My GitHub Profile 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gursimran-kaur-50187b137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gursimran-kaur-50187b137/" height="30" width="40" /></a>
-</p>
+## Experienced Senior Software Engineer | Backend Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+Hello there! 👋 I'm Gursimran Kaur, an experienced Senior Software Engineer with over 4 years of expertise in building robust and scalable web applications. My passion lies in crafting efficient and cost-effective serverless and microservices architectures that enhance reliability and performance.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/GursimranKaur97"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GursimranKaur97" /></a></p><br><br>
+### 🚀 Quick Overview
+
+- **Experience:** 4+ years in the dynamic field of software development.
+- **Skills:** Node JS, JavaScript, TypeScript, HTML, CSS, PostgreSQL, GitHub, RestAPI, Nest JS, Loopback, Jest, Mocha.
+
+
+### 🌱 Continuous Learning
+
+The field of software development is dynamic, and I am committed to continuous learning and professional growth. Staying up-to-date with the latest technologies and industry trends is not just a task for me; it's a commitment to delivering high-quality and forward-looking solutions.
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript.
+- **Frameworks:** Node.js.
+- **Databases:** PostgreSQL.
+- **Tools:** GitHub, Bitbucket, RestAPI.
+- **Testing:** Jest, Mocha.
+
+### 📈 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=contribs)](https://github.com/YourUsername)
+
+### 🤝 Let's Connect
+
+I'm always open to collaboration, discussions, and sharing insights. Feel free to connect with me on [LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/gursimran-kaur-50187b137/)).
+
+### 🌟 Let's Build the Future Together!
+
+Thank you for visiting my GitHub profile. Let's connect, collaborate, and build amazing things together! 🚀✨
