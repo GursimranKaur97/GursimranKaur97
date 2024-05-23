@@ -1,10 +1,10 @@
 <div align="center">
   
   <h1 align="center">Hi 👋, I'm Gursimran Kaur</h1>
-   ### Senior Software Engineer | Full Stack Developer
+   <h4> Senior Software Engineer | Full Stack Developer </h4>
    <p align="center"> 
       <p align="center">
-   <a href="mailto:simrankaur2997@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gursimran-kaur-50187b137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.stackoverflow.com/users/11480540/bhupendra-singh"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="100" height="20" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/GursimranKaur97/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
+   <a href="mailto:simrankaur2997@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gursimran-kaur-50187b137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/13890317/gursimrankaur"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="100" height="20" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/GursimranKaur97/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
    </p>
    </p>
 </div>
